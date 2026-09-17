@@ -1,0 +1,19 @@
+### Instructions for your report
+Your report should be structured as follows:
+* **Introduction**: a short summary of what your report is about, perhaps with a recap of some of the equations you'll be using in your solution.
+
+
+* **Task 1, 2, ...**: for each specific task listed below, include your code (in code cells), your results (as figures) as well as explanations of what is computed and what is shown in the figures (in Markdown cells). 
+* **Conclusion**: a short summary of your findings.
+
+When writing equations, please do **not** make screenshots of the equations themselves; instead, write the appropriate formulae using markdown / latex notation. You can find the latex scripts for the equations in the book at the following URL : https://github.com/leempko/mia/blob/main/book/mia.tex
+
+This is an example of an equation:
+
+$$
+y(\fat{x}; \fat{w} ) = w_0 + w_1 x_1 + \ldots + w_D x_D
+$$
+
+These instructions and the example equation should not appear in your submitted report. **Delete this instruction block before submission.**
+
+---
